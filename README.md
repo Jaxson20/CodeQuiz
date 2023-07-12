@@ -6,11 +6,11 @@ Installation - Open Google and put the URL for the website in it.
 
 Usage - To use this website effectively,  when you click start  The first question will appear, along with a 30-second timer that will start. you will then have 30 seconds to get through the questions quickly and accurately. when a question is answered correctly then 5 more seconds will be added to your time. When a question is answered incorrectly it will take 5 seconds away from your time. when you complete the questions or the timer reaches zero, the quiz is over. Once the quiz has ended you can enter your initials and submit the quiz. Your score and initials will be saved.
 
-Visual Studio Code - 
+Visual Studio Code - https://1drv.ms/i/s!AjsvYdlJ0aVdhQ2uALlzmXTfqcfC?e=XRs8hC
 
-Website - 
+Website - https://jaxson20.github.io/CodeQuiz/
 
-picture of the live site - 
+picture of the live site - https://1drv.ms/i/s!AjsvYdlJ0aVdhQxoPt9b5ZJOUFw9?e=iZU8qT
 
 Credits KU Bootcamp, Module 3, Google,
 
