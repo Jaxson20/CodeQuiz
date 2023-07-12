@@ -12,7 +12,7 @@ Website - https://jaxson20.github.io/CodeQuiz/
 
 picture of the live site - https://1drv.ms/i/s!AjsvYdlJ0aVdhQxoPt9b5ZJOUFw9?e=iZU8qT
 
-Credits KU Bootcamp, Module 3, Google,
+Credits KU Bootcamp, Module 4, Google,
 
 License MIT License
 
