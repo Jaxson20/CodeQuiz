@@ -1,0 +1,52 @@
+
+
+header {
+  text-align: center;
+}
+
+#question-1,
+#question-2 {
+  text-align: center;
+}
+
+#choices {
+  list-style-type: none;
+}
+
+button {
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50px;
+  margin: 20px;
+  padding: 10px;
+  flex: 0 0 300px;
+  font-style: italic; 
+  text-align: center;
+  font-size: 15px;
+}
+
+#timer {
+  font-size: large;
+  font-family: cursive;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: aqua;
+  
+}
+
+.hide {
+  display: none;
+}
+
+
+
+
+
+
+
+
+.hide {
+  display: none;
+}
